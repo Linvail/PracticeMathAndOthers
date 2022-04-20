@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CountPrimes", "CountPrimes\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math", "Math\Math.vcxproj", "{3ECC3388-EF1A-49EE-BC5A-2498B79D8743}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Others", "Others\Others.vcxproj", "{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3ECC3388-EF1A-49EE-BC5A-2498B79D8743}.Release|x64.Build.0 = Release|x64
 		{3ECC3388-EF1A-49EE-BC5A-2498B79D8743}.Release|x86.ActiveCfg = Release|Win32
 		{3ECC3388-EF1A-49EE-BC5A-2498B79D8743}.Release|x86.Build.0 = Release|Win32
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Debug|x64.ActiveCfg = Debug|x64
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Debug|x64.Build.0 = Debug|x64
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Debug|x86.Build.0 = Debug|Win32
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Release|x64.ActiveCfg = Release|x64
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Release|x64.Build.0 = Release|x64
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Release|x86.ActiveCfg = Release|Win32
+		{73BC2F20-5583-4144-98A1-DA3F88C8A0B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
